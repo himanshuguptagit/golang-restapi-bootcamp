@@ -12,6 +12,6 @@ Tasks:
 
 Hints:
 1. use "go get" command to install modules
-2. for mux refer to page:
+2. for mux refer to page: https://github.com/gorilla/mux
 3. Run the program by typing "go run main.go" in terminal
 4. Go to browser url: "localhost:8081" to test
