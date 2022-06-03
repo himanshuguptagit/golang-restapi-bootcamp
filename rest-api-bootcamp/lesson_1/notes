@@ -1,0 +1,17 @@
+
+Lesson 1 - Create a server to listen http requests
+
+Tasks:
+1. Install Mux module.
+2. Add mux code to host a server.
+3. Add a GET route "/" to server to print "hello world" on http request.
+4. Add a GET route "/users" to server to print "users" on http request.
+5. Add a GET route "/users/{user_id}" to server to print "Hello user: {user_id}" on http request.
+6. Test the api on browser.
+7. Test the api on postman.
+
+Hints:
+1. use "go get" command to install modules
+2. for mux refer to page:
+3. Run the program by typing "go run main.go" in terminal
+4. Go to browser url: "localhost:8081" to test

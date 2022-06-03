@@ -1,0 +1,24 @@
+
+Lesson 2 - Get Started with MVC and JSON
+M -> Model -> A model or structure for data that is stored in DB. for example:  for user model can be:
+    class User{
+        int id
+        string name;
+        string emailId;
+        string password;
+    }
+
+V -> View -> View is where we can see our data. for example: the frontend part of website which shows the user profile data when fetched from backend.
+
+C -> Controller -> Controller act as an interface to transfer data from model (database) to view (frontend) and vice-versa.
+
+Json -> is a kind of data format which is used to transfer data for http requests.
+
+Tasks:
+1. Create User model
+2. Complete the functions in userController to perform CRUD operations on users.
+3. Convert data to json to respond to http request.
+4. Test the APIs on Postman
+
+Hints:
+1. Create User is done for reference.
