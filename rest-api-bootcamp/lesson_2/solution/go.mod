@@ -1,4 +1,4 @@
-module lesson_1
+module lesson_2
 
 go 1.18
 

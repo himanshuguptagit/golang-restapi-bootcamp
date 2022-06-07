@@ -21,4 +21,5 @@ Tasks:
 4. Test the APIs on Postman
 
 Hints:
-1. Create User is done for reference.
+1. Create and show Users is done for reference.
+2. Run program by commnad "go run ./"
